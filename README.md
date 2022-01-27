@@ -1,2 +1,2 @@
-# SuperLite-Messenger
+# Messengi
 A superlite version of Messenger from iOS
